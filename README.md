@@ -1,8 +1,12 @@
-# React + Vite
+# Bhashini Project Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was generated with Vite and React and uses TailwindCSS for styling. I have used the backend API that I made using Bhashini's SDK to transtate the text.
 
-Currently, two official plugins are available:
+## Development server
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Run `npm run dev` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+
+## Links
+
+- [Backend API](https://github.com/AbhinavGupta-de/Bhashini_Project)
+- [Demo](https://bhashini-project.netlify.app/)
