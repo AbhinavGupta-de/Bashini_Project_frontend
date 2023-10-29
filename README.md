@@ -9,4 +9,4 @@ Run `npm run dev` for a dev server. Navigate to `http://localhost:3000/`. The ap
 ## Links
 
 - [Backend API](https://github.com/AbhinavGupta-de/Bhashini_Project)
-- [Demo](https://bhashini-project.netlify.app/)
+- [Live Hosting](https://bhashini-project.netlify.app/)
